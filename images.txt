@@ -3,6 +3,6 @@
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest
-gcr.io/k8s-minikube/kicbase:v0.0.44@sha256:eb04641328b06c5c4a14f4348470e1046bbcf9c2cbc551486e343d3a49db557e 
+gcr.io/k8s-minikube/kicbase:v0.0.44
 #支持指定架构
 --platform=linux/arm64 nickname/alist
